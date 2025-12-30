@@ -1,0 +1,11 @@
+site_id,site_name,location,status,primary_industrial_activity
+NY12345,"Former Metal Works","Albany, NY","Preliminary Assessment","Electroplating"
+NY12346,"Chemical Processing Plant","Buffalo, NY","Remediation Complete","Chemical Manufacturing"
+NY12347,"Old Landfill","Rochester, NY","Investigation Ongoing","Waste Disposal"
+NY12348,"Industrial Complex","Syracuse, NY","Preliminary Assessment","Metal Degreasing"
+NY12349,"Abandoned Factory","Yonkers, NY","No Further Action Required","Textile Manufacturing"
+NY12350,"Contaminated Lot","New York City, NY","Preliminary Assessment","Electroplating"
+NY12351,"Riverfront Site","Utica, NY","Remediation In Progress","Metal Finishing"
+NY12352,"Warehouse District","White Plains, NY","Preliminary Assessment","Electroplating"
+NY12353,"Manufacturing Site","Binghamton, NY","Site Characterization","Electronics Assembly"
+NY12354,"Former Gas Station","Ithaca, NY","Preliminary Assessment","Petroleum Storage"
