@@ -1,5 +1,5 @@
 site_id,site_name,location,status,primary_industrial_activity
-NY12345,"Former Metal Works","Albany, NY","Preliminary Assessment","Electroplating"
+NY12345,"Former Metal Works","Albany, NY","Preliminary Assessment","Metal Degreasing"
 NY12346,"Chemical Processing Plant","Buffalo, NY","Remediation Complete","Chemical Manufacturing"
 NY12347,"Old Landfill","Rochester, NY","Investigation Ongoing","Waste Disposal"
 NY12348,"Industrial Complex","Syracuse, NY","Preliminary Assessment","Metal Degreasing"
